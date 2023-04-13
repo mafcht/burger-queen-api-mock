@@ -83,6 +83,22 @@
     },
     {
       "id": 3,
+      "name": "Latte",
+      "price": 7,
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "type": "Desayuno",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 4,
+      "name": "Natural Juice",
+      "price": 7,
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "type": "Desayuno",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 5,
       "name": "Water 500ml",
       "price": 5,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
