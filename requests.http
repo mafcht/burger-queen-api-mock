@@ -38,7 +38,7 @@ authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdyYWNlL
             "qty": 1,
             "product": {
             "id": 1,
-            "name": "Ham and Cheese",
+            "name": "Ham and Cheese Sandwich",
             "price": 10,
             "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
             "type": "Desayuno",

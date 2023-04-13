@@ -9,8 +9,8 @@
           "qty": 1,
           "product": {
             "id": 1,
-            "name": "Ham and Cheese",
-            "price": 1000,
+            "name": "Ham and Cheese Sandwich",
+            "price": 10,
             "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
             "type": "Desayuno",
             "dateEntry": "2022-03-05 15:14:10"
