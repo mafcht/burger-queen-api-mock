@@ -85,7 +85,7 @@
       "id": 3,
       "name": "Latte",
       "price": 7,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/latte.jpeg?raw=true",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -93,7 +93,7 @@
       "id": 4,
       "name": "Natural Juice",
       "price": 7,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/juice.jpeg?raw=true",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
