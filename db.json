@@ -1,67 +1,100 @@
 {
   "orders": [
     {
-      "id": 1,
-      "userId": 1,
-      "client": "Jude Milhon",
+      "userId": "2",
+      "client": "diego",
       "products": [
         {
-          "qty": 1,
           "product": {
             "id": 1,
             "name": "Ham and Cheese Sandwich",
             "price": 10,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
             "type": "Desayuno",
             "dateEntry": "2022-03-05 15:14:10"
-          }
+          },
+          "quantity": 3
         },
         {
-          "qty": 1,
           "product": {
             "id": 2,
-            "name": "Café americano",
-            "price": 500,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/coffe.jpg",
+            "name": "Coffee",
+            "price": 5,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
             "type": "Desayuno",
             "dateEntry": "2022-03-05 15:14:10"
-          }
+          },
+          "quantity": 1
         }
       ],
       "status": "pending",
-      "dataEntry": "2022-03-05 15:00"
+      "dataEntry": "2023-04-17T17:11:39.110Z",
+      "total": 35,
+      "id": 10
     },
     {
-      "id": 2,
-      "userId": 2,
-      "client": "Katie Bouman",
+      "userId": "2",
+      "client": "maria",
       "products": [
         {
-          "qty": 2,
           "product": {
-            "id": 2,
-            "name": "Café americano",
-            "price": 500,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/coffe.jpg",
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 10,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
             "type": "Desayuno",
             "dateEntry": "2022-03-05 15:14:10"
-          }
+          },
+          "quantity": 3
         },
         {
-          "qty": 1,
           "product": {
-            "id": 3,
-            "name": "Agua 500ml",
-            "price": 500,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
-            "type": "Almuerzo",
+            "id": 2,
+            "name": "Coffee",
+            "price": 5,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+            "type": "Desayuno",
             "dateEntry": "2022-03-05 15:14:10"
-          }
+          },
+          "quantity": 1
         }
       ],
-      "status": "delivered",
-      "dataEntry": "2022-03-05 15:00",
-      "dateProcessed": "2022-03-05 16:00"
+      "status": "pending",
+      "dataEntry": "2023-04-17T17:15:16.696Z",
+      "total": 35,
+      "id": 11
+    },
+    {
+      "userId": "2",
+      "client": "sofia",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 10,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 2
+        },
+        {
+          "product": {
+            "id": 4,
+            "name": "Natural Juice",
+            "price": 7,
+            "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/juice.jpeg?raw=true",
+            "type": "Desayuno",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 3
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-17T18:12:06.570Z",
+      "total": 41,
+      "id": 12
     }
   ],
   "products": [
