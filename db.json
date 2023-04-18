@@ -95,6 +95,81 @@
       "dataEntry": "2023-04-17T18:12:06.570Z",
       "total": 41,
       "id": 12
+    },
+    {
+      "userId": "2",
+      "client": "angie",
+      "products": [
+        {
+          "product": {
+            "id": 9,
+            "name": "French Fries",
+            "price": 5,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+            "type": "Almuerzo",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 10,
+            "name": "Onion Rings",
+            "price": 5,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+            "type": "Almuerzo",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 11,
+            "name": "Simple Burger",
+            "price": 10,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+            "type": "Almuerzo",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 7,
+            "name": "Soda 500ml",
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+            "type": "Almuerzo",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-18T17:20:35.211Z",
+      "total": 27,
+      "id": 13
+    },
+    {
+      "userId": "2",
+      "client": "jorge",
+      "products": [
+        {
+          "product": {
+            "id": 12,
+            "name": "Double Burger",
+            "price": 15,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+            "type": "Almuerzo",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-18T17:21:52.462Z",
+      "total": 15,
+      "id": 14
     }
   ],
   "products": [
