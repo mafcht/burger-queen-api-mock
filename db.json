@@ -225,7 +225,7 @@
       "id": 7,
       "name": "Soda 500ml",
       "price": 7,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/soda.jpeg?raw=true",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -233,7 +233,7 @@
       "id": 8,
       "name": "Soda 750ml",
       "price": 10,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/soda.jpeg?raw=true",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -241,7 +241,7 @@
       "id": 9,
       "name": "French Fries",
       "price": 5,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/frenchfries.jpeg?raw=true",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -249,7 +249,7 @@
       "id": 10,
       "name": "Onion Rings",
       "price": 5,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/onionrings.jpeg?raw=true",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -257,7 +257,7 @@
       "id": 11,
       "name": "Simple Burger",
       "price": 10,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/sburger.jpeg?raw=true",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -265,7 +265,7 @@
       "id": 12,
       "name": "Double Burger",
       "price": 15,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/dburger.jpeg?raw=true",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     }
