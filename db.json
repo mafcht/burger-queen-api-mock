@@ -27,7 +27,7 @@
           "quantity": 1
         }
       ],
-      "status": "pending",
+      "status": "DELIVERED",
       "dataEntry": "2023-04-17T17:11:39.110Z",
       "total": 35,
       "id": 10
@@ -59,7 +59,7 @@
           "quantity": 1
         }
       ],
-      "status": "pending",
+      "status": "DELIVERED",
       "dataEntry": "2023-04-17T17:15:16.696Z",
       "total": 35,
       "id": 11
@@ -91,7 +91,7 @@
           "quantity": 3
         }
       ],
-      "status": "pending",
+      "status": "PENDING",
       "dataEntry": "2023-04-17T18:12:06.570Z",
       "total": 41,
       "id": 12
