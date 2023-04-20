@@ -2,38 +2,6 @@
   "orders": [
     {
       "userId": "2",
-      "client": "diego",
-      "products": [
-        {
-          "product": {
-            "id": 1,
-            "name": "Ham and Cheese Sandwich",
-            "price": 10,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          },
-          "quantity": 3
-        },
-        {
-          "product": {
-            "id": 2,
-            "name": "Coffee",
-            "price": 5,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          },
-          "quantity": 1
-        }
-      ],
-      "status": "DELIVERED",
-      "dataEntry": "2023-04-17T17:11:39.110Z",
-      "total": 35,
-      "id": 10
-    },
-    {
-      "userId": "2",
       "client": "maria",
       "products": [
         {
@@ -59,14 +27,16 @@
           "quantity": 1
         }
       ],
-      "status": "DELIVERED",
+      "status": "Delivered",
       "dataEntry": "2023-04-17T17:15:16.696Z",
       "total": 35,
-      "id": 11
+      "id": 11,
+      "dateProcessed": "2023-04-20T17:57:24.015Z",
+      "time": 4362.121983333333
     },
     {
       "userId": "2",
-      "client": "sofia",
+      "client": "Marisela",
       "products": [
         {
           "product": {
@@ -81,95 +51,20 @@
         },
         {
           "product": {
-            "id": 4,
-            "name": "Natural Juice",
+            "id": 3,
+            "name": "Latte",
             "price": 7,
-            "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/juice.jpeg?raw=true",
+            "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/latte.jpeg?raw=true",
             "type": "Desayuno",
             "dateEntry": "2022-03-05 15:14:10"
           },
-          "quantity": 3
+          "quantity": 2
         }
       ],
       "status": "PENDING",
-      "dataEntry": "2023-04-17T18:12:06.570Z",
-      "total": 41,
-      "id": 12
-    },
-    {
-      "userId": "2",
-      "client": "angie",
-      "products": [
-        {
-          "product": {
-            "id": 9,
-            "name": "French Fries",
-            "price": 5,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:14:10"
-          },
-          "quantity": 1
-        },
-        {
-          "product": {
-            "id": 10,
-            "name": "Onion Rings",
-            "price": 5,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:14:10"
-          },
-          "quantity": 1
-        },
-        {
-          "product": {
-            "id": 11,
-            "name": "Simple Burger",
-            "price": 10,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:14:10"
-          },
-          "quantity": 1
-        },
-        {
-          "product": {
-            "id": 7,
-            "name": "Soda 500ml",
-            "price": 7,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:14:10"
-          },
-          "quantity": 1
-        }
-      ],
-      "status": "pending",
-      "dataEntry": "2023-04-18T17:20:35.211Z",
-      "total": 27,
-      "id": 13
-    },
-    {
-      "userId": "2",
-      "client": "jorge",
-      "products": [
-        {
-          "product": {
-            "id": 12,
-            "name": "Double Burger",
-            "price": 15,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:14:10"
-          },
-          "quantity": 1
-        }
-      ],
-      "status": "pending",
-      "dataEntry": "2023-04-18T17:21:52.462Z",
-      "total": 15,
-      "id": 14
+      "dataEntry": "2023-04-20T18:23:34.826Z",
+      "total": 34,
+      "id": 24
     }
   ],
   "products": [
