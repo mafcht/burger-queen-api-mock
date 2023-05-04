@@ -64,6 +64,11 @@
       "status": "Delivered",
       "dataEntry": "2023-04-20T18:23:34.826Z",
       "total": 34,
+      "id": 24
+    },
+    {
+      "userId": "2",
+      "client": "Angie",
       "id": 24,
       "dateProcessed": "2023-04-20T18:29:26.268Z",
       "time": 5.857366666666667
@@ -71,6 +76,7 @@
     {
       "userId": "2",
       "client": "Juan",
+
       "products": [
         {
           "product": {
@@ -96,6 +102,7 @@
         },
         {
           "product": {
+
             "id": 3,
             "name": "Latte",
             "price": 7,
@@ -137,6 +144,110 @@
             "type": "Desayuno",
             "dateEntry": "2022-03-05 15:14:10"
           },
+
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 2,
+            "name": "Coffee",
+            "price": 5,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+            "type": "Desayuno",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "Delivered",
+
+      "dataEntry": "2023-04-21T20:45:49.469Z",
+      "total": 15,
+      "id": 26,
+      "dateProcessed": "2023-04-21T20:51:09.765Z",
+      "time": 5.338266666666667
+    },
+    {
+      "userId": "2",
+      "client": "FER",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 10,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 2,
+            "name": "Coffee",
+            "price": 5,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+            "type": "Desayuno",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "Cooked",
+      "dataEntry": "2023-04-21T21:16:53.113Z",
+      "total": 15,
+      "id": 27,
+      "dateProcessed": "2023-04-21T21:17:03.937Z",
+      "time": 0.1804
+    },
+    {
+      "userId": "2",
+      "client": "zzzz",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 10,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 2,
+            "name": "Coffee",
+            "price": 5,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+            "type": "Desayuno",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "Cooked",
+      "dataEntry": "2023-04-21T21:20:01.321Z",
+      "total": 15,
+      "id": 28,
+      "dateProcessed": "2023-04-21T21:20:08.144Z",
+      "time": 0.11371666666666666
+    },
+    {
+      "userId": "2",
+      "client": "test",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 10,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
           "quantity": 2
         },
         {
@@ -152,6 +263,16 @@
         }
       ],
       "status": "Delivered",
+      "dataEntry": "2023-04-21T21:20:55.316Z",
+      "total": 25,
+      "id": 29,
+      "dateProcessed": "2023-04-26T14:59:34.696Z",
+      "time": 6818.656333333333
+    },
+    {
+      "userId": "2",
+      "client": "test2",
+
       "dataEntry": "2023-04-27T18:21:30.061Z",
       "total": 25,
       "id": 26,
@@ -295,6 +416,32 @@
             "type": "Desayuno",
             "dateEntry": "2022-03-05 15:14:10"
           },
+
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 2,
+            "name": "Coffee",
+            "price": 5,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+            "type": "Desayuno",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "Delivered",
+      "dataEntry": "2023-04-21T21:23:20.372Z",
+      "total": 15,
+      "id": 30,
+      "dateProcessed": "2023-04-26T03:15:33.509Z",
+      "time": 6112.21895
+    },
+    {
+      "userId": "2",
+      "client": "xxx",
+
           "quantity": 2
         },
         {
@@ -319,6 +466,7 @@
     {
       "userId": "2",
       "client": "Julio",
+
       "products": [
         {
           "product": {
@@ -338,6 +486,45 @@
             "price": 5,
             "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
             "type": "Desayuno",
+
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "Delivered",
+      "dataEntry": "2023-04-24T15:09:57.166Z",
+      "total": 25,
+      "id": 31,
+      "dateProcessed": "2023-04-24T15:11:39.780Z",
+      "time": 1.7102333333333333
+    },
+    {
+      "userId": "2",
+      "client": "Mar",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 10,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "Delivered",
+      "dataEntry": "2023-04-26T03:14:53.182Z",
+      "total": 10,
+      "id": 32,
+      "dateProcessed": "2023-04-26T03:15:33.509Z",
+      "time": 0.6721166666666667
+    },
+    {
+      "userId": "2",
+      "client": "Mar",
             "dateEntry": "2023-04-28T18:47:30.572Z"
           },
           "quantity": 1
@@ -364,6 +551,7 @@
     {
       "userId": "2",
       "client": "Natalia",
+
       "products": [
         {
           "product": {
@@ -373,6 +561,40 @@
             "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
             "type": "Desayuno",
             "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 4
+        },
+        {
+          "product": {
+            "id": 2,
+            "name": "Coffee",
+            "price": 5,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+            "type": "Desayuno",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "Delivered",
+      "dataEntry": "2023-04-26T13:55:51.337Z",
+      "total": 45,
+      "id": 33,
+      "dateProcessed": "2023-04-26T13:57:51.716Z",
+      "time": 2.0063166666666667
+    },
+    {
+      "userId": "2",
+      "client": "Angie",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": "15",
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-26T13:58:16.199Z"
           },
           "quantity": 1
         },
@@ -383,52 +605,9 @@
             "price": 5,
             "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
             "type": "Desayuno",
-            "dateEntry": "2023-04-28T18:47:30.572Z"
-          },
-          "quantity": 1
-        },
-        {
-          "product": {
-            "id": 10,
-            "name": "Onion Rings",
-            "price": 5,
-            "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/onionrings.jpeg?raw=true",
-            "type": "Almuerzo",
+
             "dateEntry": "2022-03-05 15:14:10"
-          },
-          "quantity": 1
-        },
-        {
-          "product": {
-            "id": 6,
-            "name": "Water 750ml",
-            "price": 7,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:14:10"
-          },
-          "quantity": 1
-        }
-      ],
-      "status": "Delivered",
-      "dataEntry": "2023-04-28T20:29:17.069Z",
-      "total": 27,
-      "id": 32,
-      "dateProcessed": "2023-04-28T20:58:05.282Z",
-      "time": 28.80355
-    },
-    {
-      "userId": "2",
-      "client": "Kevin",
-      "products": [
-        {
-          "product": {
-            "id": 1,
-            "name": "Ham and Cheese Sandwich",
-            "price": 10,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
+
           },
           "quantity": 1
         },
@@ -442,14 +621,74 @@
             "dateEntry": "2022-03-05 15:14:10"
           },
           "quantity": 1
-        },
+        }
+      ],
+      "status": "Delivered",
+      "dataEntry": "2023-04-26T14:58:57.629Z",
+      "total": 27,
+      "id": 34,
+      "dateProcessed": "2023-04-26T14:59:34.696Z",
+      "time": 0.6177833333333334
+    },
+    {
+      "userId": "2",
+      "client": "ultimo",
+      "products": [
         {
           "product": {
-            "id": 4,
-            "name": "Natural Juice",
-            "price": 7,
-            "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/juice.jpeg?raw=true",
-            "type": "Desayuno",
+            "id": 3,
+            "name": "Red wine",
+            "price": 13,
+            "image": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2018/03/05/723fe8abbc4e45849329179a0232aef0_Riedel+Ouverture.jpg",
+            "type": "Almuerzo",
+            "dateEntry": "2023-04-27T01:20:26.501Z"
+          },
+          "quantity": 4
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:21:46.206Z",
+      "total": 52,
+      "id": 35
+    },
+    {
+      "userId": "2",
+      "client": "Lupis",
+      "products": [
+        {
+          "product": {
+            "id": 3,
+            "name": "Red wine",
+            "price": 13,
+            "image": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2018/03/05/723fe8abbc4e45849329179a0232aef0_Riedel+Ouverture.jpg",
+            "type": "Almuerzo",
+            "dateEntry": "2023-04-27T01:20:26.501Z"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:21:46.206Z",
+      "total": 13,
+      "id": 36
+    },
+    {
+      "userId": "2",
+      "client": "Lupis",
+      "products": [
+        {
+          "product": {
+            "id": 3,
+            "name": "Red wine",
+            "price": 13,
+            "image": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2018/03/05/723fe8abbc4e45849329179a0232aef0_Riedel+Ouverture.jpg",
+            "type": "Almuerzo",
+            "dateEntry": "2023-04-27T01:20:26.501Z
+            "id": 10,
+            "name": "Onion Rings",
+            "price": 5,
+            "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/onionrings.jpeg?raw=true",
+            "type": "Almuerzo",
             "dateEntry": "2022-03-05 15:14:10"
           },
           "quantity": 1
@@ -458,14 +697,411 @@
           "product": {
             "id": 6,
             "name": "Water 750ml",
-            "price": 7,
+
+            "price": 10,
             "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
             "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:14:10"
+            "dateEntry": "2023-04-27T00:53:45.030Z"
           },
           "quantity": 1
         }
       ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:21:46.206Z",
+      "total": 23,
+      "id": 37
+    },
+    {
+      "userId": "2",
+      "client": "asd",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 25,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-27T00:53:45.030Z"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:28:19.128Z",
+      "total": 25,
+      "id": 38
+    },
+    {
+      "userId": "2",
+      "client": "qwe",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 25,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-27T00:53:45.030Z"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:30:40.332Z",
+      "total": 25,
+      "id": 39
+    },
+    {
+      "userId": "2",
+      "client": "asd",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 25,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-27T00:53:45.030Z"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:31:18.185Z",
+      "total": 25,
+      "id": 40
+    },
+    {
+      "userId": "2",
+      "client": "qwe",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 25,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-27T00:53:45.030Z"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:31:18.185Z",
+      "total": 25,
+      "id": 41
+    },
+    {
+      "userId": "2",
+      "client": "qwe",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 25,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-27T00:53:45.030Z"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:31:18.185Z",
+      "total": 25,
+      "id": 42
+    },
+    {
+      "userId": "2",
+      "client": "jkl",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 25,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-27T00:53:45.030Z"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:37:18.530Z",
+      "total": 25,
+      "id": 43
+    },
+    {
+      "userId": "2",
+      "client": "ghj",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 25,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-27T00:53:45.030Z"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:38:30.297Z",
+      "total": 25,
+      "id": 44
+    },
+    {
+      "userId": "2",
+      "client": "asd",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 25,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-27T00:53:45.030Z"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:38:43.999Z",
+      "total": 25,
+      "id": 45
+    },
+    {
+      "userId": "2",
+      "client": "asd",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 25,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-27T00:53:45.030Z"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:40:19.305Z",
+      "total": 25,
+      "id": 46
+    },
+    {
+      "userId": "2",
+      "client": "Test 26/4",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 25,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-27T00:53:45.030Z"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:42:20.328Z",
+      "total": 25,
+      "id": 47
+    },
+    {
+      "userId": "2",
+      "client": "",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 25,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-27T00:53:45.030Z"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:44:23.626Z",
+      "total": 25,
+      "id": 48
+    },
+    {
+      "userId": "2",
+      "client": "Lorenzon",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 25,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-27T00:53:45.030Z"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:44:39.401Z",
+      "total": 25,
+      "id": 49
+    },
+    {
+      "userId": "2",
+      "client": "Luna",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 25,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-27T00:53:45.030Z"
+
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+            "type": "Almuerzo",
+            "dateEntry": "2022-03-05 15:14:10"
+
+          },
+          "quantity": 1
+        }
+      ],
+
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:52:35.519Z",
+      "total": 25,
+      "id": 50
+    },
+    {
+      "userId": "2",
+      "client": "test",
+
+      "status": "Delivered",
+      "dataEntry": "2023-04-28T20:29:17.069Z",
+      "total": 27,
+      "id": 32,
+      "dateProcessed": "2023-04-28T20:58:05.282Z",
+      "time": 28.80355
+    },
+    {
+      "userId": "2",
+      "client": "Kevin",
+
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+
+            "price": 25,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-27T00:53:45.030Z"
+          },
+          "quantity": 1
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-04-27T01:53:08.802Z",
+      "total": 25,
+      "id": 51
+    },
+    {
+      "userId": "2",
+      "client": "Fer",
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Ham and Cheese Sandwich",
+            "price": 26,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-04-27T18:29:36.252Z"
+          },
+          "quantity": 2
+        },
+        {
+          "product": {
+            "id": 2,
+            "name": "Coffee",
+            "price": 5,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+
+            "price": 10,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Desayuno",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 3,
+            "name": "Latte",
+            "price": 7,
+            "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/latte.jpeg?raw=true",
+
+            "type": "Desayuno",
+            "dateEntry": "2022-03-05 15:14:10"
+          },
+          "quantity": 1
+
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 6,
+            "name": "Water 750ml",
+
+            "price": 10,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+            "type": "Almuerzo",
+            "dateEntry": "2023-04-27T00:53:45.030Z"
+
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+            "type": "Almuerzo",
+            "dateEntry": "2022-03-05 15:14:10"
+
+          },
+          "quantity": 1
+        }
+      ],
+
+      "status": "Delivered",
+      "dataEntry": "2023-04-28T13:13:06.553Z",
+      "total": 113,
+      "id": 53,
+      "dateProcessed": "2023-04-28T13:14:40.872Z",
+      "time": 1.5719833333333333
+    },
+    {
+      "name": "Pizza",
+      "price": "20",
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+      "type": "Almuerzo",
+      "id": "105"
       "status": "Cooked",
       "dataEntry": "2023-04-28T20:58:27.322Z",
       "total": 31,
@@ -478,98 +1114,189 @@
     {
       "id": 1,
       "name": "Ham and Cheese Sandwich",
-      "price": 10,
+      "price": 50,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
-      "type": "Desayuno",
-      "dateEntry": "2022-03-05 15:14:10"
+      "type": "Almuerzo",
+      "dateEntry": "2023-05-03T23:32:24.681Z"
     },
     {
       "id": 2,
       "name": "Coffee",
-      "price": 5,
+      "price": 10,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
       "type": "Desayuno",
-      "dateEntry": "2023-04-28T18:47:30.572Z"
+      "dateEntry": "2023-04-28T13:15:09.543Z"
     },
     {
       "id": 3,
-      "name": "Latte",
-      "price": 7,
-      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/latte.jpeg?raw=true",
-      "type": "Desayuno",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 4,
-      "name": "Natural Juice",
-      "price": 7,
-      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/juice.jpeg?raw=true",
-      "type": "Desayuno",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 5,
-      "name": "Water 500ml",
-      "price": 5,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "name": "Red wine",
+      "price": 13,
+      "image": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2018/03/05/723fe8abbc4e45849329179a0232aef0_Riedel+Ouverture.jpg",
       "type": "Almuerzo",
-      "dateEntry": "2022-03-05 15:14:10"
+      "dateEntry": "2023-04-27T01:20:26.501Z"
     },
     {
       "id": 6,
       "name": "Water 750ml",
-      "price": 7,
+      "price": 10,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
       "type": "Almuerzo",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 7,
-      "name": "Soda 500ml",
-      "price": 7,
-      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/soda.jpeg?raw=true",
-      "type": "Almuerzo",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 8,
-      "name": "Soda 750ml",
-      "price": 10,
-      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/soda.jpeg?raw=true",
-      "type": "Almuerzo",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 9,
-      "name": "French Fries",
-      "price": 5,
-      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/frenchfries.jpeg?raw=true",
-      "type": "Almuerzo",
-      "dateEntry": "2022-03-05 15:14:10"
+      "dateEntry": "2023-04-27T00:53:45.030Z"
     },
     {
       "id": 10,
-      "name": "Onion Rings",
+      "name": "Coffee",
       "price": 5,
-      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/onionrings.jpeg?raw=true",
-      "type": "Almuerzo",
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
-      "id": 11,
-      "name": "Simple Burger",
+      "id": 19,
+      "name": "Chela Corona Mamalona",
+      "price": 120,
+      "image": "https://www.dispedisa.com/wp-content/uploads/2021/07/Cerveza-Light-Lager-Mexicana-Corona.png.webp",
+      "type": "Desayuno",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "name": "Matcha Latte",
+      "price": 140,
+      "image": "https://www.justonecookbook.com/wp-content/uploads/2022/12/Matcha-Latte-4589-II.jpg",
+      "type": "Desayuno",
+      "dateEntry": "2022-03-05 15:14:10",
+      "id": 20
+    },
+    {
+      "name": "té",
+      "price": 5,
+      "image": "https://okdiario.com/img/recetas/2016/10/26/beneficios-del-te-de-limon.jpg",
+      "type": "Desayuno",
+      "id": 21,
+      "dateEntry": "2023-05-01T20:22:37.696Z"
+    },
+    {
+      "name": "Pizza",
+      "price": "20",
+      "image": "https://img.freepik.com/vector-gratis/flying-slice-of-pizza-cartoon-vector-illustration-concepto-comida-rapida-vector-aislado-estilo-dibujos-animados-plana_138676-1934.jpg",
+      "type": "Almuerzo",
+      "id": "200"
+    },
+    {
+      "name": "Pasta",
+      "price": 20,
+      "image": "https://2trendies.com/hero/2023/04/ensalada_de_pasta.jpg",
+      "type": "Almuerzo",
+      "id": "8642QGr"
+    },
+    {
+      "name": "cup cake",
       "price": 10,
-      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/sburger.jpeg?raw=true",
-      "type": "Almuerzo",
-      "dateEntry": "2022-03-05 15:14:10"
+      "image": "https://sugargeekshow.com/wp-content/uploads/2022/08/vanilla_cupcakes_featured-scaled.jpg",
+      "type": "Desayuno",
+      "id": "oXwgLDH",
+      "dateEntry": "2023-05-01T22:40:23.895Z"
     },
     {
-      "id": 12,
-      "name": "Double Burger",
+      "name": "Chilaquiles",
       "price": 15,
-      "image": "https://github.com/mafcht/burger-queen-api-mock/blob/main/resources/images/dburger.jpeg?raw=true",
+      "image": "https://i.blogs.es/25527f/chilaquiles-rojos-tradicionales-receta-facil-cocina-mexicana/840_560.jpg",
+      "type": "Desayuno",
+      "id": "owqkb77"
+    },
+    {
+      "name": "vinito",
+      "price": 18,
+      "image": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2018/03/05/723fe8abbc4e45849329179a0232aef0_Riedel+Ouverture.jpg",
       "type": "Almuerzo",
-      "dateEntry": "2022-03-05 15:14:10"
+      "id": "cZJKDcj",
+      "dateEntry": "2023-05-01T21:51:04.763Z"
+    },
+    {
+      "name": "sadds",
+      "price": 20,
+      "image": "https://img.freepik.com/vector-gratis/flying-slice-of-pizza-cartoon-vector-illustration-concepto-comida-rapida-vector-aislado-estilo-dibujos-animados-plana_138676-1934.jpg",
+      "type": "Desayuno",
+      "id": "csAO19P"
+    },
+    {
+      "name": "dfsdf",
+      "price": 543453,
+      "image": "https://2trendies.com/hero/2023/04/ensalada_de_pasta.jpg",
+      "type": "Desayuno",
+      "id": "wikF3Sq"
+    },
+    {
+      "name": "shrimps",
+      "price": 54,
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+      "type": "Almuerzo",
+      "id": "MoSp1iR",
+      "dateEntry": "2023-05-01T22:43:40.706Z"
+    },
+    {
+      "name": "Test product",
+      "price": 21,
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "type": "Almuerzo",
+      "id": "DEVvbH_"
+    },
+    {
+      "name": "Ham and Cheese Sandwich",
+      "price": 20,
+      "image": "https://2trendies.com/hero/2023/04/ensalada_de_pasta.jpg",
+      "type": "Almuerzo",
+      "id": "E_d_BSe"
+    },
+    {
+      "name": "Ham and Cheese Sandwich",
+      "price": 15,
+      "image": "https://sugargeekshow.com/wp-content/uploads/2022/08/vanilla_cupcakes_featured-scaled.jpg",
+      "type": "Almuerzo",
+      "id": "dHHWDJb"
+    },
+    {
+      "name": "panini",
+      "price": 45,
+      "image": "https://sugargeekshow.com/wp-content/uploads/2022/08/vanilla_cupcakes_featured-scaled.jpg",
+      "type": "Almuerzo",
+      "id": "oIYYMBq"
+    },
+    {
+      "name": "Ham and Cheese Sandwichscs",
+      "price": 18,
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "type": "Almuerzo",
+      "id": "7ZMT-UL"
+    },
+    {
+      "name": "Pizza",
+      "price": 25,
+      "image": "https://img.freepik.com/vector-gratis/flying-slice-of-pizza-cartoon-vector-illustration-concepto-comida-rapida-vector-aislado-estilo-dibujos-animados-plana_138676-1934.jpg",
+      "type": "Almuerzo",
+      "id": "4uZnIO_",
+      "dateEntry": "2023-05-04T15:51:20.940Z"
+    },
+    {
+      "name": "Ham and Cheese Sandwich",
+      "price": 20,
+      "image": "https://img.freepik.com/vector-gratis/flying-slice-of-pizza-cartoon-vector-illustration-concepto-comida-rapida-vector-aislado-estilo-dibujos-animados-plana_138676-1934.jpg",
+      "type": "Desayuno",
+      "id": "974iW_K"
+    },
+    {
+      "name": "Ham and Cheese Sandwich",
+      "price": 15,
+      "image": "https://img.freepik.com/vector-gratis/flying-slice-of-pizza-cartoon-vector-illustration-concepto-comida-rapida-vector-aislado-estilo-dibujos-animados-plana_138676-1934.jpg",
+      "type": "Almuerzo",
+      "id": "GR6nsFw"
+    },
+    {
+      "name": "rabiolis",
+      "price": 20,
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "type": "Almuerzo",
+      "id": "y5_0njF"
     }
   ],
   "users": [
